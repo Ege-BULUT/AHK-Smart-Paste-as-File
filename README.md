@@ -11,7 +11,7 @@ You are free to use, modify, and distribute this script.
 
 ---
 
-
+<img width="774" height="485" alt="image" src="https://github.com/user-attachments/assets/47c5af8e-51c5-4020-9f19-3cf6d52436a1" />
 
 
 # SmartPaste
