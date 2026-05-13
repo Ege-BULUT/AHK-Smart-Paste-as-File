@@ -11,6 +11,63 @@ You are free to use, modify, and distribute this script.
 
 ---
 
+## Installation
+
+### 1. Install AutoHotkey v2
+
+Download and install AutoHotkey v2 from:
+
+```txt
+https://www.autohotkey.com/
+```
+
+Make sure you install **AutoHotkey v2**, not v1.
+
+### 2. Download the script
+
+Save the script as:
+
+```txt
+SmartPaste.ahk
+```
+
+### 3. Run the script
+
+Double-click:
+
+```txt
+SmartPaste.ahk
+```
+
+The script will run in the background.
+
+### 4. Use the shortcut
+
+Copy something, then press:
+
+```txt
+Alt + V
+```
+
+---
+
+## Requirements
+
+### Required
+
+* Windows
+* AutoHotkey v2
+
+### Optional
+
+* Microsoft Excel
+
+Excel is only required for `.xlsx` table generation.
+
+If Excel is not available or Excel COM automation fails, SmartPaste falls back to saving table data as `.csv`.
+
+---
+
 <img width="774" height="485" alt="image" src="https://github.com/user-attachments/assets/47c5af8e-51c5-4020-9f19-3cf6d52436a1" />
 
 
@@ -103,63 +160,6 @@ This allows pasting generated files into apps such as:
 * Upload fields
 * File managers
 * Developer tools
-
----
-
-## Installation
-
-### 1. Install AutoHotkey v2
-
-Download and install AutoHotkey v2 from:
-
-```txt
-https://www.autohotkey.com/
-```
-
-Make sure you install **AutoHotkey v2**, not v1.
-
-### 2. Download the script
-
-Save the script as:
-
-```txt
-SmartPaste.ahk
-```
-
-### 3. Run the script
-
-Double-click:
-
-```txt
-SmartPaste.ahk
-```
-
-The script will run in the background.
-
-### 4. Use the shortcut
-
-Copy something, then press:
-
-```txt
-Alt + V
-```
-
----
-
-## Requirements
-
-### Required
-
-* Windows
-* AutoHotkey v2
-
-### Optional
-
-* Microsoft Excel
-
-Excel is only required for `.xlsx` table generation.
-
-If Excel is not available or Excel COM automation fails, SmartPaste falls back to saving table data as `.csv`.
 
 ---
 
